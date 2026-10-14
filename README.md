@@ -2,7 +2,7 @@
 Keeb Stand is a simple and light-weight stand to mount your keyboard for easy access and incline.
 
 ## What is this?
-Keeb Stand is a simple and sleek keyboard stand. Designed from scratch in Onshape, it has a very comfortable and fixed angle of incline for your keyboards. It shares color with the previously designed [Phone Stand](https://github.com/vd-sh/phone-stand). Being compatible with many keyboards, this also has hooks at the upper end to lock in any lying cables (<2mm) and make sure the setup looks clean.
+Keeb Stand is a simple and sleek keyboard stand. Designed from scratch in Onshape, it has a very comfortable and fixed angle of incline for your keyboard. It shares the same color as the previously designed [Phone Stand](https://github.com/vd-sh/phone-stand). Being compatible with many keyboards, this also has hooks at the upper end to lock in any lying cables (<2mm) and make sure the setup looks clean.
 
 <img src="Assets/Screenshot-2026-10-14-204859.png" alt="image of keeb stand" width="400">
 
